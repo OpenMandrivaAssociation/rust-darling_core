@@ -5,8 +5,8 @@
 %global crate darling_core
 
 Name:           rust-%{crate}
-Version:        0.10.2
-Release:        2%{?dist}
+Version:        0.24.0
+Release:        1%{?dist}
 Summary:        Helper crate for proc-macro library for reading attributes into structs
 
 # Upstream license specification: MIT
